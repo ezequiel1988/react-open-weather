@@ -1,11 +1,14 @@
 .App {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 15%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App-title {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: sans-serif;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
